@@ -53,7 +53,7 @@ This analysis contains 8 entity (table) and every table has to attribute.
 
 8. metrics
 
-*Date	
+* Date	
 * Sub Category ID	
 * Plant ID	
 * Vendor ID	
