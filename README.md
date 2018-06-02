@@ -66,6 +66,9 @@ This analysis contains 8 entity (table) and every table has to attribute.
 
 ### Let's make the data model from the 8 entity. Just drag every [Primary Key](https://en.wikipedia.org/wiki/Primary_key) of the entity in power pivot or power bi data model
 
+![supplier-data-model](https://user-images.githubusercontent.com/27078712/40879433-04b35ec6-66a0-11e8-8f22-46a108dc88f8.PNG)
+
+
 
 ### After that, create [a measure in power bi or power pivot](https://docs.microsoft.com/en-us/power-bi/desktop-tutorial-create-measures)
 
@@ -77,6 +80,8 @@ Extras: [Quick Guide DAX](https://support.office.com/en-us/article/quickstart-le
 
 ---------------------------------------------------------------------------
 Drag this entity for every graph
+
+* Total Defect QTY by Month and Year
 
 
 
